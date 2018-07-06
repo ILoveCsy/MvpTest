@@ -13,11 +13,14 @@
     tools:context="com.mvp.mvptest.MainActivity"
     tools:showIn="@layout/activity_main"
     android:orientation="vertical">
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="点击按钮获取天气信息" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="****************" />
     <TextView
         android:id="@+id/textview"
         android:layout_width="wrap_content"
